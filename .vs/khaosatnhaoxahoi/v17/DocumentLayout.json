@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\controllers\\publicsurveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\controllers\\publicsurveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\services\\authclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\services\\authclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\models\\surveydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\models\\dtos\\createsurveyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\models\\dtos\\createsurveyrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\models\\dtos\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\models\\dtos\\createquestionrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|d:\\code\\csap\\laptrinhdotnet\\khaosatnhaoxahoi\\surveyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{39752DE3-73C1-467A-8527-C1D267710158}|SurveyService\\SurveyService.csproj|solutionrelative:surveyservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "surveyController.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\surveyController.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Controllers\\surveyController.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\surveyController.cs",
+              "RelativeToolTip": "SurveyService\\Controllers\\surveyController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:44:36.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Controllers\\QuestionsController.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "SurveyService\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAcwIMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:44:02.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PublicSurveyController.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\PublicSurveyController.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Controllers\\PublicSurveyController.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Controllers\\PublicSurveyController.cs",
+              "RelativeToolTip": "SurveyService\\Controllers\\PublicSurveyController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwGIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:43:52.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthClient.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Services\\AuthClient.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Services\\AuthClient.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Services\\AuthClient.cs",
+              "RelativeToolTip": "SurveyService\\Services\\AuthClient.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:41:48.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SurveyDbContext.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\SurveyDbContext.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Models\\SurveyDbContext.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\SurveyDbContext.cs",
+              "RelativeToolTip": "SurveyService\\Models\\SurveyDbContext.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAmwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:25:12.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateSurveyRequest.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\DTOs\\CreateSurveyRequest.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Models\\DTOs\\CreateSurveyRequest.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\DTOs\\CreateSurveyRequest.cs",
+              "RelativeToolTip": "SurveyService\\Models\\DTOs\\CreateSurveyRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:22:03.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateQuestionRequest.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "RelativeToolTip": "SurveyService\\Models\\DTOs\\CreateQuestionRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T14:22:01.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\appsettings.json",
+              "RelativeDocumentMoniker": "SurveyService\\appsettings.json",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\appsettings.json",
+              "RelativeToolTip": "SurveyService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-24T13:08:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Program.cs",
+              "RelativeDocumentMoniker": "SurveyService\\Program.cs",
+              "ToolTip": "D:\\code\\Csap\\laptrinhdotnet\\khaosatnhaoxahoi\\SurveyService\\Program.cs",
+              "RelativeToolTip": "SurveyService\\Program.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T13:05:38.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
