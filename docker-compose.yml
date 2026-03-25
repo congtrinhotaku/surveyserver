@@ -1,0 +1,20 @@
+version: '3.8'
+
+services:
+  apigateway:
+    build: ./APIGateway
+    ports:
+      - "5000:8080"
+    depends_on:
+      - authservice
+      - coreservice
+      - surveyservice
+
+  authservice:
+    build: ./AuthService
+
+  coreservice:
+    build: ./CoreService
+
+  surveyservice:
+    build: ./SurveyService
