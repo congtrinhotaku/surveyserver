@@ -138,3 +138,6 @@ D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\runtim
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\BCrypt.Net-Next.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\Npgsql.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\coreService\obj\Debug\net8.0\coreService.sourcelink.json

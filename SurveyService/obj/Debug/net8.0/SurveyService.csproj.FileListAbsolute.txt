@@ -137,3 +137,6 @@ D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\surveyService\obj\Debug\net8.0\refi
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\surveyService\obj\Debug\net8.0\SurveyService.pdb
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\surveyService\obj\Debug\net8.0\SurveyService.genruntimeconfig.cache
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\surveyService\obj\Debug\net8.0\ref\SurveyService.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\SurveyService\bin\Debug\net8.0\Npgsql.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\SurveyService\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\SurveyService\obj\Debug\net8.0\SurveyService.sourcelink.json

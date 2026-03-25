@@ -51,3 +51,4 @@ D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\APIGateway\obj\Debug\net8.0\refint\
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\APIGateway\obj\Debug\net8.0\APIGateway.pdb
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\APIGateway\obj\Debug\net8.0\APIGateway.genruntimeconfig.cache
 D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\APIGateway\obj\Debug\net8.0\ref\APIGateway.dll
+D:\code\Csap\laptrinhdotnet\khaosatnhaoxahoi\APIGateway\obj\Debug\net8.0\APIGateway.sourcelink.json

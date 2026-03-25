@@ -2,42 +2,27 @@
   "Routes": [
     {
       "DownstreamPathTemplate": "/api/auth/{everything}",
-      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5001
-        }
+        { "Host": "authservice", "Port": 8080 }
       ],
-      "UpstreamPathTemplate": "/auth/{everything}",
-      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+      "UpstreamPathTemplate": "/auth/{everything}"
     },
     {
       "DownstreamPathTemplate": "/api/{everything}",
-      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5002
-        }
+        { "Host": "coreservice", "Port": 8080 }
       ],
-      "UpstreamPathTemplate": "/core/{everything}",
-      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+      "UpstreamPathTemplate": "/core/{everything}"
     },
-     {
+    {
       "DownstreamPathTemplate": "/api/{everything}",
-      "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
-        {
-          "Host": "localhost",
-          "Port": 5003
-        }
+        { "Host": "surveyservice", "Port": 8080 }
       ],
-      "UpstreamPathTemplate": "/survey/{everything}",
-      "UpstreamHttpMethod": [ "GET", "POST", "PUT", "DELETE" ]
+      "UpstreamPathTemplate": "/survey/{everything}"
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:5000"
+    "BaseUrl": "http://apigateway:8080"
   }
 }
